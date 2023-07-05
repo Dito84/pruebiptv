@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://wikicharlie-cdn-img.b-cdn.net/5/5a/Canuto_y_Canito.jpg" group-title="INFANTILES - ANIME", CANUTO & CANITO , http://flash.shortgod.com/cacao2023/tv2.php?id=121.ts
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE CUATRO , http://flash.shortgod.com/cacao2023/tv2.php?id=131.ts
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE CUATRO 
+http://flash.shortgod.com/cacao2023/tv2.php?id=131.ts
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg" group-title="CANALES 24/7", CINE CINCO
 http://flash.shortgod.com/cacao2023/tv2.php?id=104.ts
